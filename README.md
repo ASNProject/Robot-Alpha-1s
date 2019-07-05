@@ -1,2 +1,2 @@
-# Robot-Program-V1
-File berisi program berbagai macam robot
+# Robot Alpha 1S
+File berisi action dan music dari robot Ubtech Alpha 1s
